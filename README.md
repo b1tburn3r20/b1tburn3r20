@@ -1,17 +1,55 @@
 # Hi, im Alejandro!
 
+<details>
+    <summary><b>About Me</b></summary><br/>
+    I am a highly ambitious individual, driven by the belief that the only limit to what I can achieve is my own creativity. I approach every challenge with passion, and thrive on working towards and exceeding my goals. With a strong affinity for coding, I am constantly seeking to improve my skills and explore new opportunities in the field. Networking and collaborating with others is something I value greatly, as I believe that working together is the key to success. With a positive and proactive attitude, I am committed to making a meaningful impact in the world.
+</details>
+
 ## My Github Stats:
 <img align = left width = 47% src = "https://github-readme-stats.vercel.app/api?username=b1tburn3r20&show_icons=true&theme=prussian" />
-<img left width = 47% height = 20% src = "https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=prussian&show_icons=true)](https://github.com/b1tburn3r20"
-<img padding = 0 align = left src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img padding = 0 align = left src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img width = 47% src="https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&theme=prussian&hide_progress=true&layout=compact"/>
+
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+            <span><strong>VSCode</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+<details>
+    <summary><b> 🔥 Current Coding Streak 🔥 </b></summary><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1tburn3r20"/>
+
+</details>
