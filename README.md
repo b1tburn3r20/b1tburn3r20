@@ -2,7 +2,7 @@
 
 ## My Github Stats:
 <img align = left width = 47% src = "https://github-readme-stats.vercel.app/api?username=b1tburn3r20&show_icons=true&theme=prussian" />
-<img align = left width = 47% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=b1tburn3r20&layout=compact)](https://github.com/b1tburn3r20/github-readme-stats" />
+<img left width = 47% height = 20% src = "https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=prussian&show_icons=true)](https://github.com/b1tburn3r20"
 <img padding = 0 align = left src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 <img padding = 0 align = left src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
 <img padding = 0 align = left src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
