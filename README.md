@@ -1,5 +1,7 @@
 # Hi, im Alejandro! 👋 🤖
-
+<div align="center">
+  <img src="https://i.imgur.com/GPjcvuI.gif" alt="saitama" style="width:100%;max-width:600px">
+</div>
 <details>
     <summary><b>About Me</b></summary><br/>
     I am a highly ambitious individual, driven by the belief that the only limit to what I can achieve is my own creativity. I approach every challenge with passion, and thrive on working towards and exceeding my goals. With a strong affinity for coding, I am constantly seeking to improve my skills and explore new opportunities in the field. Networking and collaborating with others is something I value greatly, as I believe that working together is the key to success. With a positive and proactive attitude, I am committed to making a meaningful impact in the world.
