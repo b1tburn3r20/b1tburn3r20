@@ -1,4 +1,4 @@
-# Hi, im Alejandro! 👋 
+# Hi, im Alejandro! 👋 🪐
 <div align="center">
   <img src="https://i.imgur.com/AWPlMK2.gif" alt="black-hole" style="width:100%;max-width:600px">
 </div>
@@ -8,8 +8,8 @@
 </details>
 
 ## My Github Stats:
-<img align = left width = 47% src = "https://github-readme-stats.vercel.app/api?username=b1tburn3r20&show_icons=true&theme=prussian" />
-<img width = 47% src="https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&theme=prussian&hide_progress=true&layout=compact"/>
+<img align = left width = 47% src = "https://github-readme-stats.vercel.app/api?username=b1tburn3r20&show_icons=true&theme=codeSTACKr" />
+<img width = 47% src="https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&theme=codeSTACKr&hide_progress=true&layout=compact"/>
 
 <table width="320px">
     <tbody>
