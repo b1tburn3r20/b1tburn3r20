@@ -1,4 +1,4 @@
-# Hi, im Alejandro!
+# Hi, im Alejandro! 👋 🤖
 
 <details>
     <summary><b>About Me</b></summary><br/>
