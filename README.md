@@ -8,9 +8,13 @@
     I am a highly ambitious individual, driven by the belief that the only limit to what I can achieve is my own creativity. I approach every challenge with passion, and thrive on working towards and exceeding my goals. With a strong affinity for coding, I am constantly seeking to improve my skills and explore new opportunities in the field. Networking and collaborating with others is something I value greatly, as I believe that working together is the key to success. With a positive and proactive attitude, I am committed to making a meaningful impact in the world.
 </details>
 </br>
-## My Github Stats:
-<img align = left width = 47% src = "https://github-readme-stats.vercel.app/api?username=b1tburn3r20&show_icons=true&theme=codeSTACKr" />
-<img width = 47% src="https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&theme=codeSTACKr&hide_progress=true&layout=compact"/>
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; align-items: center; width: 100%; max-width: 800px;">
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=b1tburn3r20&show_icons=true&theme=codeSTACKr" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&theme=codeSTACKr&hide_progress=true&layout=compact" />
+  </div>
+</div>
+
 
 <table width="320px">
     <tbody>
@@ -51,6 +55,7 @@
         </tr>
     </tbody>
 </table>
+</br>
 <details>
     <summary><b> 🔥 Current Coding Streak 🔥 </b></summary><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1tburn3r20"/>
