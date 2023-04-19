@@ -1,4 +1,4 @@
-# Hi, im Alejandro! 👋 🤖
+# Hi, im Alejandro! 👋 
 <div align="center">
   <img src="https://i.imgur.com/GPjcvuI.gif" alt="saitama" style="width:100%;max-width:600px">
 </div>
