@@ -36,7 +36,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Node JS</strong></span><br>
+            <span><strong>Node.js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
         </tr>
