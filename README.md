@@ -40,8 +40,16 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
             <td width="80px" align="center">
+            <span><strong>Tailwind</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+            </td>
+            <td width="80px" align="center">
             <span><strong>Express</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Rasp Pi</strong></span><br>
+            <img height="32px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
             </td>
         </tr>
         <tr valign="top">
@@ -60,6 +68,10 @@
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
             </td>
             <td width="80px" align="center">
             <span><strong>Three.js</strong></span><br>
