@@ -51,6 +51,18 @@
             <span><strong>Rasp Pi</strong></span><br>
             <img height="32px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
             </td>
+            <td width="80px" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MacOS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+            </td>
+          <td width="80px" align="center">
+            <span><strong>WindowsOS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -84,6 +96,19 @@
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Firebase</strong></span><br>
+            <img height="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>AWS</strong></span><br>
+            <img height="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+            </td>
+
         </tr>
     </tbody>
 </table>
