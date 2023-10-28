@@ -108,7 +108,6 @@
             <span><strong>AWS</strong></span><br>
             <img height="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
             </td>
-
         </tr>
     </tbody>
 </table>
