@@ -40,10 +40,6 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Tailwind</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-            </td>
-            <td width="80px" align="center">
             <span><strong>Express</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
@@ -103,10 +99,6 @@
             <td width="80px" align="center">
             <span><strong>MongoDB</strong></span><br>
             <img height="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>AWS</strong></span><br>
-            <img height="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
             </td>
         </tr>
     </tbody>
